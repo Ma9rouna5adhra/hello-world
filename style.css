@@ -1,0 +1,193 @@
+body{
+  background-color: whitesmoke;
+}
+.nav-i{
+  color:gold;
+}
+.nav-i{
+  padding-left: 20px;
+}
+#apdn{
+  color: goldenrod;
+}
+#SB,#BMY,#BSM{
+  display: inline;
+ padding-left: 100px;
+  width:435px;
+   height:350px;
+}
+#p-design{
+  margin-top: 15px;
+  font-size: 18pt;
+  display : block;
+}
+#t-design{
+  margin-top: 30px;
+  font-size: 35pt;
+  color : white;
+}
+#design{
+  background-color:goldenrod;
+ display: inline-block;
+ padding-left: 10px;
+ padding-right: 10px;
+ margin-left: 100px;
+}#i-design{
+  margin-left: 65px;
+  margin-bottom: 50px;
+}
+#SB,#p-SB{
+  display: block;
+}
+#p-SB{ 
+  margin-left: 99px;
+  display: none;
+  font-size: 18pt;
+  color: goldenrod;
+}
+#SB,#t-SB{
+  display: block;
+ margin-right: 100px;
+}
+#t-SB{
+  color: gold;
+   font-size: 18pt;
+     background-color: goldenrod;
+      width: 338px;
+       margin-left: 99px;
+
+        padding-bottom: 40px;
+         padding-top: 10px;
+}
+#BMY,#p-BMY{
+  display: block;
+}
+#p-BMY{ 
+  margin-left: 99px;
+  display: none;
+  font-size: 18pt;
+  color: goldenrod;
+}
+#BMY,#t-BMY{
+  display: block;
+}
+#t-BMY{
+  color: gold;
+   font-size: 18pt;
+     background-color: goldenrod;
+      width: 338px;
+       margin-left: 99px;
+        padding-bottom: 40px;
+         padding-top: 10px;
+}
+#BSM,#p-BSM{
+  display: block;
+}
+#p-BSM{ 
+  margin-left: 99px;
+  display: none;
+  font-size: 18pt;
+  color: goldenrod;
+}
+#BSM,#t-BSM{
+  display: block;
+}
+#t-BSM{
+  color: gold;
+   font-size: 18pt;
+     background-color: goldenrod;
+      width: 338px;
+       margin-left: 99px;
+        padding-bottom: 40px;
+         padding-top: 10px;
+}
+
+#p-development{
+  margin-top: 15px;
+  font-size: 18pt;
+  display : inline-block;
+
+  }
+#t-development{
+  margin-top: 30px;
+  font-size: 35pt;
+  color : white;
+}
+#development{
+  background-color:goldenrod;
+ display: inline-block;
+ margin-left: 100px;
+}
+#i-development{
+  padding-bottom: 70px;
+  float: right;
+}
+
+#p-marketing{
+  margin-top: 15px;
+  font-size: 18pt;
+  display : block;
+  }
+#t-marketing{
+  margin-top: 30px;
+  font-size: 35pt;
+  color : white;
+}
+#marketing{
+  background-color:goldenrod;
+ display: inline-block;
+ margin-left: 100px;
+}
+#i-marketing{
+  margin-left: 65px;
+  margin-bottom: 50px;
+}
+
+#pp{
+  padding-right: 100px;
+}
+.navbar{
+  background-color : white;
+  border-color: blue;
+}
+#design,#marketing,#development{
+  transition: transform 0.6s ease;
+  margin-left: -100px;
+  opacity: 0;
+
+}
+#p1,#p2,#p3,#p5,#p6,#p7{
+  display: inline;
+  width: 300px;
+  height: 250px
+}
+#p4,#p1{
+  display: block;
+  width:300px;
+  height:250px;
+}
+#i-lc{
+margin-top: 100px;
+margin-left: 100px;
+}
+#p-img,#PS-logo{
+  display: block;
+}
+.tit{
+  color: white;
+}
+#contact{
+  color: white;
+}
+
+#con{
+  background-color: #2C373E;
+border: 1px solid white;
+}
+#p-img,#i-lc{
+  display:inline;
+}
+#PS-logo{
+  margin-top: 20px;
+  margin-bottom: 90px;
+}
